@@ -12,6 +12,7 @@ VLSI Engineering Student
 <a href="https://www.linkedin.com/in/richard-robinnson-l-j-89b3a121a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-left: 20px;" /></a>
 <br />
 - 💡 Familiar with protocols and sensors
+  
 ---
 ### Languages I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
@@ -28,7 +29,7 @@ VLSI Engineering Student
 
 ---
 ### Board's I Use
-<img src="https://giphy.com/clips/southpark-south-park-episode-3-season-23-breLBEo4GjLNyRLtZt"> 
+<div style="width:480px"><iframe frameBorder="0" height="270" src="https://giphy.com/embed/breLBEo4GjLNyRLtZt/video" width="480"></iframe></div> 
 1. De-10 Nano FPGA Kit
 2. Arduino
 3. ESP-32 & ESP8266
