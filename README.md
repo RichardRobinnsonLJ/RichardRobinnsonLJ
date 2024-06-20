@@ -46,7 +46,7 @@
 ---
 
 ### Protocols
-<img align="right" width="250" height="250" src="https://media1.tenor.com/m/47fa3mgxGlEAAAAC/everyone-has-to-follow-protocol-pc-principal.gif">
+<img align="right" width="250" height="200" src="https://media1.tenor.com/m/47fa3mgxGlEAAAAC/everyone-has-to-follow-protocol-pc-principal.gif">
 
 1. ↗️MQTT
 2. ⌛UART & USART
