@@ -9,10 +9,9 @@
 - 🧐 Looking for placements in VLSI Feild
 - ❓ Ask me about Tech
 - 📬 Reach me through
-<br />
-<a href="https://www.instagram.com/spidy_richie?igsh=eGRkOXo4eHJsdGgy&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/spidy_richie?igsh=eGRkOXo4eHJsdGgy&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="padding-left: 20px;"/></a>
 <a href="https://www.linkedin.com/in/richard-robinnson-l-j-89b3a121a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-left: 20px;" /></a>
-<br />
+
 
 - 💡 Familiar with protocols and sensors
 - 🖊️ Fav Quote: "Don't be afraid of death, be afraid of the unlived life."
