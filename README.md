@@ -37,7 +37,7 @@ VLSI Engineering Student
 
 ---
 
-###Protocols
+### Protocols
 <img align="right" width="370" height="290" src="https://media1.tenor.com/m/47fa3mgxGlEAAAAC/everyone-has-to-follow-protocol-pc-principal.gif">
 1. MQTT
 2. UART
@@ -45,5 +45,4 @@ VLSI Engineering Student
 4. SPI
 5. FTP, FTPS & SFTP
 6. HTTP and HTTPS
-7. 
 
