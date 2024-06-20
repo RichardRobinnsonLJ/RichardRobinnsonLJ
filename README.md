@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Richard
 
 VLSI Engineering Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media2.giphy.com/media/unxCGmTuBvwo2djRLA/200.webp?cid=790b7611k9yt2x39rua3eem5lq3uf8fbhxwdq3beraa9kwo7&ep=v1_gifs_search&rid=200.webp&ct=g">
 - 👨‍🔬 Here's my [portfolio]()
 - 🐣 I'm currently learning VLSI
 - 🧐 Looking for placements in VLSI Feild
