@@ -3,7 +3,7 @@
 VLSI Engineering Student
 <img align="right" width="370" height="290" src="https://media2.giphy.com/media/unxCGmTuBvwo2djRLA/200.webp?cid=790b7611k9yt2x39rua3eem5lq3uf8fbhxwdq3beraa9kwo7&ep=v1_gifs_search&rid=200.webp&ct=g">
 - 👨‍🔬 Here's my [portfolio]()
-- 🐣 I'm currently learning VLSI
+- 🐣 I'm currently learning System Verilog Implementations
 - 🧐 Looking for placements in VLSI Feild
 - ❓ Ask me about Tech
 - 📬 Reach me through
