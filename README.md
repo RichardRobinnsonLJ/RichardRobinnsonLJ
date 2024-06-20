@@ -29,11 +29,15 @@ VLSI Engineering Student
 
 ---
 
-### Board's I Use
-1. De-10 Nano FPGA Kit
-2. Arduino
-3. ESP-32 & ESP8266
-4. SIMCOM A7670C Module
+### Boards and Sensors I Use
+1. 🔌De-10 Nano FPGA Kit
+2. 🎮Arduino
+3. 🛜ESP-32 & ESP8266
+4. 📶SIMCOM A7670C Module
+5. 🔥IR and Flame Sensor
+6. 💧DHT Sensor
+7. 📝DS3231(RTC and EEPROM) module
+8. 😮‍💨Gas and Humidity Sensor
 
 ---
 
