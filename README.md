@@ -29,7 +29,6 @@ VLSI Engineering Student
 
 ---
 ### Board's I Use
-<img src="https://media1.tenor.com/m/47fa3mgxGlEAAAAC/everyone-has-to-follow-protocol-pc-principal.gif">
 1. De-10 Nano FPGA Kit
 2. Arduino
 3. ESP-32 & ESP8266
@@ -37,6 +36,8 @@ VLSI Engineering Student
 
 ---
 ###Protocols
+
+<img align="right" width="370" height="290" src="https://media1.tenor.com/m/47fa3mgxGlEAAAAC/everyone-has-to-follow-protocol-pc-principal.gif">
 1. MQTT
 2. UART
 3. I2C
