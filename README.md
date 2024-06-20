@@ -12,6 +12,7 @@ VLSI Engineering Student
 <a href="https://www.linkedin.com/in/richard-robinnson-l-j-89b3a121a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-left: 20px;" /></a>
 <br />
 - 💡 Familiar with protocols and sensors
+- 🖊️ Fav Quote: "Don't be afraid of death, be afraid of the unlived life."
   
 ---
 ### Languages I Use
@@ -42,12 +43,12 @@ VLSI Engineering Student
 ---
 
 ### Protocols
-<img align="right" width="370" height="290" src="https://media1.tenor.com/m/47fa3mgxGlEAAAAC/everyone-has-to-follow-protocol-pc-principal.gif">
+<img align="right" width="250" height="250" src="https://media1.tenor.com/m/47fa3mgxGlEAAAAC/everyone-has-to-follow-protocol-pc-principal.gif">
 
-1. MQTT
-2. UART & USART
-3. I2C
-4. SPI
-5. FTP, FTPS & SFTP
-6. HTTP & HTTPS
+1. ↗️MQTT
+2. ⌛UART & USART
+3. ⛓️I2C
+4. ✅SPI
+5. 🗃️FTP, FTPS & SFTP
+6. 🤳HTTP & HTTPS
 
