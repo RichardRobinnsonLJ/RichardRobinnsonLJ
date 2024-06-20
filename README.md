@@ -29,7 +29,7 @@ VLSI Engineering Student
 
 ---
 ### Board's I Use
-<div style="width:480px"><iframe frameBorder="0" height="270" src="https://giphy.com/embed/breLBEo4GjLNyRLtZt/video" width="480"></iframe></div> 
+<iframe frameBorder="0" height="270" src="https://giphy.com/embed/breLBEo4GjLNyRLtZt/video" width="480" />
 1. De-10 Nano FPGA Kit
 2. Arduino
 3. ESP-32 & ESP8266
