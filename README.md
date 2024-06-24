@@ -6,7 +6,7 @@
 
 - 👨‍🔬 Here's my [portfolio]()
 - 🐣 I'm currently learning System Verilog Implementations
-- 🧐 Looking for placements in VLSI Feild
+- 🧐 Looking for placements in VLSI Field
 - ❓ Ask me about Tech
 - 📬 Reach me through
   
@@ -37,7 +37,7 @@
 ### Boards and Sensors I Use
 1. 🔌De-10 Nano FPGA Kit
 2. 🎮Arduino
-3. 🛜ESP-32 & ESP8266
+3. 📶ESP-32 & ESP8266
 4. 📶SIMCOM A7670C Module
 5. 🔥IR and Flame Sensor
 6. 💧DHT Sensor
